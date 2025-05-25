@@ -12,7 +12,7 @@ redirect_from:
 # Education
 
 ## Bachelor of Software Engineering (Hanoi University)
-_2021-2025 _
+_2021-2025_
 Level: Good
 
 
