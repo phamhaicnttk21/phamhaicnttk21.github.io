@@ -11,22 +11,24 @@ redirect_from:
 
 # Education
 
-- Bachelor in Software Development , Hanoi University, 2025 (expected)
+## Bachelor of Software Engineering (Hanoi University)
+_2021-2025 _
+Level: Good
+
 
 # Work experience
 
-- Spring 2024: Php Developer for Startup Company
-  - Develop and maintain API for Ecommerce System
+## Software Developer – FORTNA
+_Aug 2024 – Feb 2025_
+- Developed secure APIs for the Rule Engine in warehouse automation systems
+- Applied secure coding principles and message queues to enhance system reliability
+- Handled database migrations using Liquibase, ensuring data integrity and policy compliance
+- Deployed and secured microservices using Docker and Kubernetes
+- Participated in Agile team practices using JIRA: sprint planning, security reviews, and incident simulations
+- Wrote unit tests with JUnit to ensure code quality and stability
 
-# Skills
-
-- Technical
-
-  - Java Core,Springboot,Spring Cloud, Spring Security, Spring JUnit
-  - PHP (Laravel), Wordpress
-  - Javascript (React, Redux, Nodejs, Express, MongoDB, Mongoose)
-
-- Others
-  - Teamwork, Communication, Time Management
-  - English(Professional working proficiency)
-  - German(A1)
+## Backend Developer – Startup Company 
+_Mar 2024 – Jun 2024_
+- Developed RESTful APIs for an eCommerce platform
+- Designed and implemented relational databases in collaboration with the team
+- Contributed to delivering the final product to customers
