@@ -18,6 +18,10 @@ _2021-2025_
 
 # Work experience
 
+## Devops Engineer – LotteFinance
+_July 2025 – now_
+
+
 ## Software Developer – FORTNA
 _Aug 2024 – Feb 2025_
 - Developed secure APIs for the Rule Engine in warehouse automation systems
